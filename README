@@ -1,0 +1,6 @@
+The python program pulsar_masses.py creates a distribution of pulsar masses from textfile pulsar_masses.txt. 
+To create a distribution plot such as ns_masses.pdf. 
+
+How to run:
+
+python pulsar_masses.py
